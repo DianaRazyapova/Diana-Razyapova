@@ -52,10 +52,9 @@ ___
 <table>
      <tr>
         <td>
-<img width="1680" alt="Снимок экрана 2022-10-19 в 11 25 13" src="https://user-images.githubusercontent.com/115238502/196614619-6c671dcb-3088-47b5-b989-e7256f4ce693.png">
+          <img width="1680" alt="Создать заказ" src="https://user-images.githubusercontent.com/115238502/196678507-02990544-978e-463d-9c33-4ee85f49b477.png">
           </td>
-        <td>
-          <img width="1680" alt="Снимок экрана 2022-10-19 в 11 25 13" src="https://user-images.githubusercontent.com/115238502/196615887-cf890737-ba0a-4c35-8ce8-ddae81318d69.png">
- </td>
-    </tr>
- </table>
+          <td>
+          </td><img width="1680" alt="Получить заказ по номеру" src="https://user-images.githubusercontent.com/115238502/196678644-5a75df6d-0e5e-4d07-89e9-1eb6ed312a00.png">
+      </tr>
+</table>
