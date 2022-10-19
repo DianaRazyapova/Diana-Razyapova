@@ -76,3 +76,24 @@ ___
 
 **Яндекс.Трекер**
 > *Составления баг-репортов
+<table>
+     <tr>
+        <td>
+        <img width="1659" alt="BUG-884269" src="https://user-images.githubusercontent.com/115238502/196708476-05bf4bc0-af13-4472-b754-dc57d635804e.png">
+          </td>
+          <td>
+<img width="1659" alt="BUG-902218" src="https://user-images.githubusercontent.com/115238502/196708772-9824f264-be84-4517-a196-65be94a7b886.png">
+          </td>
+      </tr>
+ </table>
+ 
+ <table>
+     <tr>
+        <td>
+        <img width="1659" alt="BUG-921006" src="https://user-images.githubusercontent.com/115238502/196709333-51841fe6-899d-49aa-a448-6345bb9a335c.png">
+         </td>
+         <td>
+         <img width="1660" alt="BUG-887672" src="https://user-images.githubusercontent.com/115238502/196709654-1a87517b-4d5d-44fc-b4f0-33ef4ee11fe5.png">
+         </td>
+      </tr>
+ </table>
