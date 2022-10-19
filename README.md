@@ -5,7 +5,7 @@
 - [Тест-кейс мобильного приложения](https://github.com/DianaRazyapova/Yandex.Samokat/blob/ad62530b3af164986ecaf2be395d4e7df367ed24/%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B8%CC%86%D1%81%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.xlsx)
 - [Чек-лист API](https://github.com/DianaRazyapova/Yandex.Samokat/blob/6086e3935a278f70776fad5878b5ec07db2e183c/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%20API.xlsx)
 - [Таблица валидации полей](https://github.com/DianaRazyapova/Yandex.Samokat/blob/b0cca285c3889f5a5e9b1afb7d38e53e557a9a4f/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D0%B2%D0%B0%D0%BB%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D0%B8.xlsx)
-- [Bug report]()
+- [Bug report примеры](https://drive.google.com/drive/folders/1F8juT-nF0j-J1maBAOPFuYp1yVCBAtqQ?usp=sharing)
 - [Mindmap требований](https://github.com/DianaRazyapova/Yandex.Samokat/blob/da42738001e357ee64dc2addbd9c548a581b389f/Mindnmap.png)
 
 
