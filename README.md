@@ -73,7 +73,13 @@ ___
 
 **Android Studio**
 > Скриншоты работы в программе
-
+<table>
+     <tr>
+        <td>
+          <img width="1680" alt="Android Studio" src="https://user-images.githubusercontent.com/115238502/196765700-571bd81f-7ac4-4606-821a-c491784f30e4.png">
+          </td>
+      </tr>
+</table>
 **Яндекс.Трекер**
 > Составления баг-репортов
 <table>
