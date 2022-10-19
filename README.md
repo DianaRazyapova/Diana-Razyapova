@@ -47,5 +47,14 @@ ___
 
 
 ## Postman
-> *Отправка различных запросов*
+> *Отправка запросов*
+<table>
+     <tr>
+        <td>
 <img width="1680" alt="Снимок экрана 2022-10-19 в 11 25 13" src="https://user-images.githubusercontent.com/115238502/196614619-6c671dcb-3088-47b5-b989-e7256f4ce693.png">
+          </td>
+        <td>
+          <img width="1680" alt="Снимок экрана 2022-10-19 в 11 25 13" src="https://user-images.githubusercontent.com/115238502/196615887-cf890737-ba0a-4c35-8ce8-ddae81318d69.png">
+ </td>
+    </tr>
+ </table>
