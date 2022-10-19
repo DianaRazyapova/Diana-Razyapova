@@ -6,7 +6,7 @@
 - [Чек-лист API](https://github.com/DianaRazyapova/Yandex.Samokat/blob/6086e3935a278f70776fad5878b5ec07db2e183c/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%20API.xlsx)
 - [Таблица валидации полей](https://github.com/DianaRazyapova/Yandex.Samokat/blob/b0cca285c3889f5a5e9b1afb7d38e53e557a9a4f/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D0%B2%D0%B0%D0%BB%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D0%B8.xlsx)
 - [Bug report]()
-- [Mindmap требований](Mindmap.xmind)
+- [Mindmap требований](https://github.com/DianaRazyapova/Yandex.Samokat/blob/da42738001e357ee64dc2addbd9c548a581b389f/Mindnmap.png)
 
 
 ## Объекты тестирования
