@@ -55,6 +55,7 @@ ___
           <img width="1680" alt="Создать заказ" src="https://user-images.githubusercontent.com/115238502/196678507-02990544-978e-463d-9c33-4ee85f49b477.png">
           </td>
           <td>
-          </td><img width="1680" alt="Получить заказ по номеру" src="https://user-images.githubusercontent.com/115238502/196678644-5a75df6d-0e5e-4d07-89e9-1eb6ed312a00.png">
+          <img width="1680" alt="Получить заказ по номеру" src="https://user-images.githubusercontent.com/115238502/196678925-cc7bc05a-1777-48d5-92af-011f7f644ae7.png">
+          </td>
       </tr>
 </table>
