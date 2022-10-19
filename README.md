@@ -48,3 +48,4 @@ ___
 
 ## Postman
 > *Отправка различных запросов*
+<img width="1680" alt="Снимок экрана 2022-10-19 в 11 25 13" src="https://user-images.githubusercontent.com/115238502/196614619-6c671dcb-3088-47b5-b989-e7256f4ce693.png">
