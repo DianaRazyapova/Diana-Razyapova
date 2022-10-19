@@ -49,6 +49,14 @@ ___
 ## Инструменты
 **Charles Proxy**
 > *Перехват запроса, подмена в запросе и проверка доработки фронтенда*
+<table>
+     <tr>
+        <td>
+            <video src="https://user-images.githubusercontent.com/115238502/196703818-a0e97a09-528b-40af-966f-e9b304b9e42a.mp4"
+          </video>
+        </td>
+    </tr>
+</table>
 
 **Postman**
 > *Скриншоты отправки запросов*
