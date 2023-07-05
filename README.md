@@ -1,12 +1,12 @@
 ## Тестирование учебного сервиса Яндекс Самокат &#128756;
 
 **Содержание**
-- [Чек-лист веб-приложения]()
-- [Тест-кейс мобильного приложения]()
-- [Чек-лист API]()
-- [Таблица валидации полей]()
-- [Bug report примеры]()
-- [Mindmap требований]()
+- [Чек-лист веб-приложения](https://docs.google.com/spreadsheets/d/1WYdYmcbC7-cmnnpA_rmW6JBtq91xHwmTM7ZtLexbO10/edit?usp=drive_link)
+- [Тест-кейс мобильного приложения](https://docs.google.com/spreadsheets/d/1G1Ab81TgnEg6kWNSs_EPkQkZUVFLLcGbaxrJNDtlEj4/edit?usp=drive_link)
+- [Чек-лист API](https://docs.google.com/spreadsheets/d/1WU-UVrYNSm_Q4b86KxF0CAF83irrANsVS4tUmRkbGAk/edit?usp=drive_link)
+- [Таблица валидации полей](https://docs.google.com/spreadsheets/d/19az72ajZPdP0uS8cXqA5knGXKZkO__asW63c9RaTuwc/edit?usp=drive_link)
+- [Bug report примеры](https://drive.google.com/drive/folders/1Te9CdPFlEWA9N1XtC4NzJ7hhTH54gv9U?usp=drive_link)
+- [Mindmap требований](https://drive.google.com/file/d/1nUv1JgSKI9Dk9jUw4TG8xj8fxZXThh_U/view?usp=drive_link)
 
 
 ## Объекты тестирования
